@@ -1,3 +1,5 @@
+<h1>Ivan Drenjanin aka Zaramao Dev</h1>
+<img src="https://komarev.com/ghpvc/?username=ivandrenjanin&style=flat-square&color=blue" alt=""/>
 <div id="header">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZvZ2RsMzFlYXE2ZTRqa3hldTlndDV6MmRlaXZieDdxdWlkZ2c1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kJV3yFjaVYtlP0CMOR/giphy.gif" width="100"/>
 
@@ -16,11 +18,9 @@
   </a>
 
 </div>
-  <img src="https://komarev.com/ghpvc/?username=ivandrenjanin&style=flat-square&color=blue" alt=""/>
 <h1>
   <div>
   Hello there
-    
   </div>
   <div>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmo0cGszbjBxY2gwZGUwcXVjcDNkYTc3Y25vbGowMTd2anE1cmR2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif" width="130px"/>
