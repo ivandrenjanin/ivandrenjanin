@@ -1,8 +1,15 @@
-<h1>Ivan Drenjanin aka Zaramao Dev</h1>
-<img src="https://komarev.com/ghpvc/?username=ivandrenjanin&style=flat-square&color=blue" alt=""/>
+## Ivan Drenjanin aka Zaramao Dev
 <div id="header">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZvZ2RsMzFlYXE2ZTRqa3hldTlndDV6MmRlaXZieDdxdWlkZ2c1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kJV3yFjaVYtlP0CMOR/giphy.gif" width="100"/>
+<div>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZvZ2RsMzFlYXE2ZTRqa3hldTlndDV6MmRlaXZieDdxdWlkZ2c1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kJV3yFjaVYtlP0CMOR/giphy.gif" width="100"/>
+  
+</div>
+<div>
+<img src="https://komarev.com/ghpvc/?username=ivandrenjanin&style=flat-square&color=blue" alt=""/>
+  
+</div>
 
+## Socials:
 <div id="badges">
   <a href="https://www.twitch.tv/zaramao_dev">  
     <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
@@ -18,18 +25,15 @@
   </a>
 
 </div>
-<h1>
-  <div>
-  Hello there
-  </div>
-  <div>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmo0cGszbjBxY2gwZGUwcXVjcDNkYTc3Y25vbGowMTd2anE1cmR2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif" width="130px"/>
-  </div>
-</h1>
+
   
 </div>
   
-### 👾 About Me:
+## 👾 About Me:
+  <div>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmo0cGszbjBxY2gwZGUwcXVjcDNkYTc3Y25vbGowMTd2anE1cmR2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif" width="250px"/>
+  </div>
+
 I am a Software Developer with 6 years of experience mainly working in the Backend Development side of things with a primary focus on working with Node.js. I am currently working on expanding my skill set with Go and I am live streaming that entire process on Twitch.
 
 - 🔭 I’m currently working on:
