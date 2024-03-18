@@ -35,7 +35,7 @@
 I am a software developer with 6 years of experience, primarily specializing in Backend Development with a focus on Node.js. Currently, I am working on broadening my skill set by learning Go, and I am live streaming the entire learning process on Twitch.
 - I’m open to collaborating on any part/full-time contract-based work or full-time employment.
 - I am presently engaged in a part-time contract with a startup based in the US, utilizing the stack of Node.js + Typescript.
-- I am actively expanding my skill set by learning Go, HTMX, Alpinejs, and Tailwindcss.
+- I am actively expanding my skill set by learning different languages and tech stacks.
 - To contact me, you can reach out on any of my social media accounts linked in the header. Feel free to do so!
 - Fun fact: Get in touch and find out!
 
