@@ -33,11 +33,6 @@
   </div>
 
 I am a software developer with 6 years of experience, primarily specializing in Backend Development with a focus on Node.js. Currently, I am working on broadening my skill set by learning Go, and I am live streaming the entire learning process on Twitch.
-- I’m open to collaborating on any part/full-time contract-based work or full-time employment.
-- I am presently engaged in a part-time contract with a startup based in the US, utilizing the stack of Node.js + Typescript.
-- I am actively expanding my skill set by learning different languages and tech stacks.
-- To contact me, you can reach out on any of my social media accounts linked in the header. Feel free to do so!
-- Fun fact: Get in touch and find out!
 
 ### Languages, Runtimes, Frameworks and other tools:
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" />&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" />&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="40" />&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" />&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" />&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" width="40" />&nbsp;
