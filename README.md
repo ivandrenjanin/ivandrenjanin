@@ -32,7 +32,7 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmo0cGszbjBxY2gwZGUwcXVjcDNkYTc3Y25vbGowMTd2anE1cmR2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif" width="250px"/>
   </div>
 
-I am a software developer with 6 years of experience, primarily specializing in Backend Development with a focus on Node.js and learning Go.
+I am a software developer with 6 years of experience, primarily specializing in Backend Development with a focus on Node.js and Go. I am also exploring other languages such as C/C++, Zig, Lua.
 
 ### Languages, Runtimes, Frameworks and other tools:
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" />&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" />&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="40" />&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" />&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" />&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" width="40" />&nbsp;
